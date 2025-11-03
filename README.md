@@ -4,7 +4,7 @@
 
 - Hey, I'm Dani.
 -  I am a motivated Computer Programming student, who is passionate about **Linux** and **Operating System**.
-- You can find me here : [DanialSamadi.github.io](https://DanialSamadi.github.io)
+- You can find me here : [DanialSamadi.github.io](https://Danisdev.me)
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64" height="64" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="64" height="64" />
