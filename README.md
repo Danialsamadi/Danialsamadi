@@ -7,7 +7,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Danisdev.me-blue?style=for-the-badge&logo=google-chrome)](https://Danisdev.me)
   [![GitHub](https://img.shields.io/badge/GitHub-Danialsamadi-181717?style=for-the-badge&logo=github)](https://github.com/Danialsamadi)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:danisamadi11@gmail.com)
   
 </div>
 
