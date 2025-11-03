@@ -17,17 +17,38 @@
 
 I'm a **Computer Programming student** with a passion for building high-performance tools that solve real-world problems. My expertise spans **systems programming**, **performance optimization**, **network analysis**, and **developer productivity tools**—all with a strong foundation in **Linux** and **Operating Systems**.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Danial Samadi"
-        self.role = "Systems & Performance Engineer"
-        self.interests = ["Linux", "Performance Optimization", "Developer Tools", "Concurrency"]
-        self.current_focus = "Building blazingly fast tools developers love"
-        self.superpower = "Making things 99%+ faster"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+```golang
+package main
+
+import "fmt"
+
+type Developer struct {
+	Name          string
+	Role          string
+	Interests     []string
+	CurrentFocus  string
+	Superpower    string
+}
+
+func NewDeveloper() Developer {
+	return Developer{
+		Name:         "Danial Samadi",
+		Role:         "Systems & Performance Engineer",
+		Interests:    []string{"Linux", "Performance Optimization", "Developer Tools", "Concurrency"},
+		CurrentFocus: "Building blazingly fast tools developers love",
+		Superpower:   "Making things 99%+ faster",
+	}
+}
+
+func (d Developer) SayHi() {
+	fmt.Println("Thanks for dropping by! Let's build something amazing together.")
+}
+
+func main() {
+	dev := NewDeveloper()
+	fmt.Printf("%+v\n", dev)
+	dev.SayHi()
+}
 ```
 
 ---
