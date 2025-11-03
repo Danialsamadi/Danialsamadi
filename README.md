@@ -38,7 +38,7 @@ class Developer:
 <tr>
 <td width="50%">
 
-### ⚡ [v2go](https://github.com/Danialsamadi/v2go)
+### [v2go](https://github.com/Danialsamadi/v2go)
 **High-Performance Config Aggregator**
 
 Blazingly fast Go application that processes 20,000+ configurations in 11 seconds—**99.7% faster** than Python implementation. Features concurrent processing, smart deduplication, and automated updates.
@@ -50,7 +50,7 @@ Blazingly fast Go application that processes 20,000+ configurations in 11 second
 </td>
 <td width="50%">
 
-### 🍅 [Syncodoro](https://github.com/Danialsamadi/Syncodoro)
+### [Syncodoro](https://github.com/Danialsamadi/Syncodoro)
 **Progressive Web App Pomodoro Timer**
 
 A full-stack productivity platform with offline-first architecture, real-time cloud sync, and analytics dashboards.
@@ -64,7 +64,7 @@ A full-stack productivity platform with offline-first architecture, real-time cl
 <tr>
 <td width="50%">
 
-### 🖥️ [Free-macOS](https://github.com/Danialsamadi/Free-macos)
+### [Free-macOS](https://github.com/Danialsamadi/Free-macos)
 **Memory Monitor for macOS**
 
 Brings Linux's `free` command to macOS with real-time visual monitoring and colorful progress bars.
@@ -76,7 +76,7 @@ Brings Linux's `free` command to macOS with real-time visual monitoring and colo
 </td>
 <td width="50%">
 
-### 📡 [RSSI Scanner](https://github.com/Danialsamadi/rssi)
+### [RSSI Scanner](https://github.com/Danialsamadi/rssi)
 **WiFi Signal Strength Analyzer**
 
 Real-time network scanner for signal optimization and coverage analysis using Windows WLAN API.
